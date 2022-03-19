@@ -1,4 +1,4 @@
-# Max-Max-Sum-of-Orthogonal-Triangle-Input
+# Max-Sum-of-Orthogonal-Triangle-Input
 
 Program will have an orthogonal triangle input from a file and you need to find the maximum sum of the numbers according to given rules below;
 
